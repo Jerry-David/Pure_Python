@@ -24,8 +24,7 @@ Mac os 使用brew安装：`brew install python` 或参考 [Mac下Python安装](h
 
 Linux 安装方式自行百度（因为不同发行版差距较大，需要自行匹配），推荐[Linux下Python安装](http://c.biancheng.net/view/4162.html)
 
-IDE选择：[Python IDE选择](https://zhuanlan.zhihu.com/p/96778253)，我个人用的是Vim，贴张图：
-![avatar](/home/jerry/Pictures/markdown/实例.png)
+IDE选择：[Python IDE选择](https://zhuanlan.zhihu.com/p/96778253)，我个人用的是Vim
 
 
 ---
