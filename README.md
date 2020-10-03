@@ -1,2 +1,2 @@
 # pure_python
-This is my `python` Repositories.
+This is my `python` repositories.
