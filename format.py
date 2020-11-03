@@ -6,9 +6,7 @@ print("我今年%04d岁了。" % 12)
 print("我今天长高了%.2f厘米" % 8.367)
 print("我今天长高了%.4f厘米" % 8.367)
 
-
 print("\n\n\n")
-
 
 # 用format格式化字符串
 print("用format格式化字符串", end="\n\n")
